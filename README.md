@@ -3,9 +3,10 @@ My Tring of Face Recognition
 
 Wish List
 
-- [] libfacedetection (https://github.com/ShiqiYu/libfacedetection)
-- [] Retinaface-Mobilenet-0.25 (https://github.com/deepinsight/insightface)
-- [] 
+- [ ] Ultra-Light-Fast-Generic-Face-Detector-1MB (https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB/blob/master/train_mb_tiny_fd.sh) 
+- [ ] libfacedetection (https://github.com/ShiqiYu/libfacedetection)
+- [ ] Retinaface-Mobilenet-0.25 (https://github.com/deepinsight/insightface)
+- [ ] 
 
 
 1. Simple Implementation by OpenCV
